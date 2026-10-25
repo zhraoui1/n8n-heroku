@@ -29,15 +29,5 @@
         "value": "false"
       }
     },
-    "addons": [
-      {
-        "plan": "heroku-postgresql",
-        "options": {
-          "version": "16"
-        }
-      },
-      {
-        "plan": "papertrail:choklad"
-      }
-    ]
+    "addons": []
   }
